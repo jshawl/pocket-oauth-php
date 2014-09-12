@@ -1,7 +1,7 @@
 pocket-oauth-php
 ================
 
-A PHP Library for connecting to the Pocket API
+Some PHP for connecting to the Pocket API
 
 1. Edit the variables in config.php
 2. Visit http://path.to/connect.php in your browser
